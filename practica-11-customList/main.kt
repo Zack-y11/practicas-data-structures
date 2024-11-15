@@ -65,7 +65,5 @@ fun main(){
                 println("Opcion no valida")
             }
         }   
-    }
-    
-
+    } while (opcion != 4)
 }
